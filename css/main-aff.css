@@ -1,0 +1,161 @@
+body {
+  	font-weight: 300;
+  	font-family: 'Rubik', sans-serif;
+  	color:white;
+  	background-color: rgba(249, 2, 146, 1.0);
+  }
+
+body a {
+	color: #F4FF52;
+	font-weight: 400;
+
+}
+
+p {
+	font-size: 1rem;
+}
+
+h2, h3, h4, h5 {
+  font-weight: 500;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 3.0rem;
+}
+
+footer {
+	background-color: none;
+	color: white;
+}
+
+
+button {
+	background-color: rgba(249, 2, 146, 1.0);
+	height: 50px;
+	width: 220px;
+	border-radius: 3px;
+	border:none;
+	color: white;
+	font-weight: 400;
+}
+
+button a {
+	color: white;
+}
+
+.bg-start-aff {
+	color: #0C0CDA;
+	background-color: white;
+}
+
+.logo-aff {
+	background-color: #F4FF52;
+	color: #F4FF52;
+	font-weight: 700;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: left;
+}
+
+.events-aff h3 {
+	font-weight: 600;
+}
+
+.events-aff h5 {
+}
+
+
+.events-aff {
+	color: black;
+	background-color: white;
+	padding: 30px;
+	height: 300px;
+	margin: 0 auto;
+	border-top-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+.events-aff a {
+	color: rgba(249, 2, 146, 1.0);
+}
+
+
+.events-img-aff {
+	height: 300px;
+	padding: 20px;
+	border-top-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+
+.bg-events-aff {
+	color: white;
+	background-color: #0C0CDA;
+	border: none;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	z-index: 1000;
+
+}
+
+.name-aff {
+	font-weight: 400;
+	font-size: 4.0rem;
+	color: #0C0CDA;
+}
+
+.footer-elem{
+	margin: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	color: #9a69d8;
+	background-color: none;
+}
+
+.bg-aff {
+	background-color: #E4572E;
+}
+
+hr.haar-aff {
+	border: 0;
+    height: 10px;
+    width: 100vw;
+    background: #FFE900;
+    margin: 0 auto;
+    margin-left: 0vw;
+}
+
+hr.haar-h {
+	border: 0;
+    height: 5px;
+    width: 18vw;
+    background: rgba(249, 2, 146, 1.0);
+    margin-top: 0;
+    margin-left: 0;
+/*    margin: 0 auto;
+    margin-bottom: 5px;*/
+}
+
+
+.contact-align {
+	text-align: center;
+}
+
+.nav-bottom {
+	background-color: #2E382E;
+	color: white;
+	font-weight: 500;
+	width: 100vw;
+}
+
+.nav-bottom a{
+	color: white;
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+.nav-bottom a:hover {
+	color: white;
+	font-weight: 500;
+}
