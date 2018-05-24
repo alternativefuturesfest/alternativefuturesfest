@@ -6,7 +6,7 @@ body {
   }
 
 body a {
-	color: #F4FF52;
+	color: rgba(249, 2, 146, 1.0);
 	font-weight: 400;
 
 }
@@ -29,20 +29,6 @@ footer {
 	color: white;
 }
 
-
-button {
-	background-color: rgba(249, 2, 146, 1.0);
-	height: 50px;
-	width: 220px;
-	border-radius: 3px;
-	border:none;
-	color: white;
-	font-weight: 400;
-}
-
-button a {
-	color: white;
-}
 
 .bg-start-aff {
 	color: #0C0CDA;
