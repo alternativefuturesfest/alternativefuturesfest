@@ -1,7 +1,7 @@
 # Site settings
 title: Alternative Futures Fest
 email: hello@alternativefuturesfest.xyz
-description: Alternative Futures Fest
+description: Seven days. Seven events. Imagining and building a multitude of post-capitalist futures. During the week, we'll host discussions around the future of work, housing and digital citizenship. Over the weekend, our critical incubator hack event will help you get your post-capitalist project out of the idea phase!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.alternativefuturesfest.xyz" # the base hostname & protocol for your site
 github_username:  alternativefuturesfest
